@@ -1,3 +1,4 @@
 read pric1, price2
 sum=price 1+price2
 discount if amount more than 100 give 2% else no discount
+amount deducted by credit card...
